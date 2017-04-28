@@ -1,0 +1,2 @@
+Dependencias para compilação (Fedora 25):
+# dnf install texlive texlive-babel-portuges
